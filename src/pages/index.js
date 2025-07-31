@@ -21,7 +21,7 @@ import {
   config
 } from '../utils/constants.js';
 const api = new Api({
-  baseUrl: 'https://mesto.nomoreparties.co/v1/cohort-202',
+  baseUrl: 'https://mesto.nomoreparties.co/apf/cohort-202',
   headers: {
     authorization: 'eb71d7d3-76e0-4fcc-b713-f0c9ad1551c9',
     'Content-Type': 'application/json'
